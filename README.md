@@ -16,6 +16,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -31,7 +32,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|1|[AcWing 826. 单链表](https://github.com/justonehe/Algorithm/issues/1)|`单链表` `模板`|2023-12-16T02:39:59Z|
+|1|[P5727 【深基5.例3】冰雹猜想](https://github.com/RyanHe0/Algorithm/issues/1)|`数组`|2023-12-17T11:43:43Z|
 |6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
 |3|[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
 |2|[P1002 [NOIP2002 普及组] 过河卒](https://github.com/justonehe/Algorithm/issues/2)|`递归`|2023-12-17T11:35:03Z|
