@@ -25,6 +25,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -40,6 +41,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|5|[P1554 梦中的统计](https://github.com/RyanHe0/Algorithm/issues/5)||2023-12-23T06:59:45Z|
 |4|[P2550 [AHOI2001] 彩票摇奖](https://github.com/RyanHe0/Algorithm/issues/4)||2023-12-23T06:27:17Z|
 |1|[P5727 【深基5.例3】冰雹猜想](https://github.com/RyanHe0/Algorithm/issues/1)|`数组`|2023-12-17T11:43:43Z|
 |6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
