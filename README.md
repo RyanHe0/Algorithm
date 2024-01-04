@@ -13,6 +13,7 @@
 
 ## 🎯 Calendar
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -21,13 +22,14 @@
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
-|29|30|31|1|2|3|4|
+|29|30|31|1|2|3|4🌟|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|7|[819. 递归求阶乘](https://github.com/RyanHe0/Algorithm/issues/7)||2024-01-04T04:21:58Z|
 |5|[P1554 梦中的统计](https://github.com/RyanHe0/Algorithm/issues/5)||2023-12-23T06:59:45Z|
 |4|[P2550 [AHOI2001] 彩票摇奖](https://github.com/RyanHe0/Algorithm/issues/4)||2023-12-23T06:27:17Z|
 |1|[P5727 【深基5.例3】冰雹猜想](https://github.com/RyanHe0/Algorithm/issues/1)|`数组`|2023-12-17T11:43:43Z|
