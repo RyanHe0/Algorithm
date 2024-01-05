@@ -15,11 +15,12 @@
 
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4🌟|5|6|7|
+|1|2|3|4🌟|5🌟|6|7|
 |8|9|10|11|12|13|14|
 |15|16|17|18|19|20|21|
 |22|23|24|25|26|27|28|
@@ -30,6 +31,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|8|[811. 交换数值](https://github.com/RyanHe0/Algorithm/issues/8)||2024-01-05T00:03:00Z|
 |7|[819. 递归求阶乘](https://github.com/RyanHe0/Algorithm/issues/7)||2024-01-04T04:21:58Z|
 |5|[P1554 梦中的统计](https://github.com/RyanHe0/Algorithm/issues/5)||2023-12-23T06:59:45Z|
 |4|[P2550 [AHOI2001] 彩票摇奖](https://github.com/RyanHe0/Algorithm/issues/4)||2023-12-23T06:27:17Z|
